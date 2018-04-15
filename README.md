@@ -39,6 +39,7 @@ Bugs -
 - [ ] Fix eMail page
 
 Enhancements - 
+- [ ] Add a .ID attribute to all BODY, SPAN and DIV tags, for ease in test automation (added 4/14/18 lw)
 - [ ] Make a function to open up an email with everyone who is registered on the website’s address.
 - [ ] Investigate adding a user blog for photos, stories and news. 
 - [ ] Fork fkf, modify it to use google slides.  At this point changes are only on Lou’s local server.
